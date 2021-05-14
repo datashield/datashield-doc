@@ -11,4 +11,8 @@ Perhaps instead, we collect all the workable vignettes, convert them into R-mark
 
 Any suggestions by others, feel free to add to my thoughts! :)
 
+## Further thoughts on this repo:
+
+IN the Thursday Technical meeting on 6th May 2021 [youtube link](https://youtu.be/9O30hxMeKRE) Andrei suggested exploring a website-integrated wiki rather than this collection of vignettes, which may call its future into question? While vignettes are good, they do need to be interlinked and it would be all the better if they were community-driven so the content creation isn't all on us.
+
 
